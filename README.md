@@ -1,4 +1,4 @@
-Aspiring Fullstack Developer 
+Fullstack Developer 
 
 I'm deeply passionate about various facets of software development, ranging from mastering data structures and algorithms to exploring the dynamic realms of gaming, cryptocurrency, and web and app development. Currently, I'm dedicated to enriching my portfolio with diverse projects that showcase my skills and creativity.
 
